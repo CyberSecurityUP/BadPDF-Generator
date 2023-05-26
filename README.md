@@ -2,5 +2,10 @@
 
 Created with the purpose of performing phishing tests.
 
-Modify the pdf name and domain within the code.
+Usage:
+
+``` 
+python3 badpdf.py --file my_report.pdf --host https://my.phishingpage.com
+```
+
 
